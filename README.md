@@ -1,5 +1,17 @@
 # myapp
 
+##cap 1
+- ![image](https://github.com/user-attachments/assets/ea4da183-d32f-4fd9-a21e-964f98644a69)
+
+##cap 2
+- ![image](https://github.com/user-attachments/assets/c54ac198-69cf-4cb3-82a6-61af95ba338f)
+
+##cap 3
+- ![image](https://github.com/user-attachments/assets/ba3da7df-948d-46b3-96c5-22f2846e1a52)
+
+##cap 4
+- ![image](https://github.com/user-attachments/assets/b6c1b8ad-7b4d-4821-853e-0747f5d4921c)
+
 A new Flutter project.
 
 ## Getting Started
